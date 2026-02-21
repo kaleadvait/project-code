@@ -1,0 +1,6 @@
+﻿with user config. -18: Authentication failed,Credentials are invalid. Please select the valid credentials in setting/credentials.,,,,,
+obtainAccessToken(): Failed to login to ,Credentials are invalid. Please select the valid credentials in setting/credentials.,,,,,
+ -5: Unable to exchange encryption keys,"Cause:
+SSH ciphers or macs in use by the DPA Agent do not match the SSH ciphers or macs on the Data Domain that DPA is attempting to collect from.
+Resolution:
+In order to successfully communicate using SSH, both devices must use the same cipher or mac set. If a common cipher or mac set cannot be found between the two devices, then the SSH connection fails. The cipher or mac set must be updated on either or both of the devices attempting to communicate to resolve this issue.",run,ABCD0001,,,
